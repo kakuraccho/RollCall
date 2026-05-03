@@ -1,4 +1,4 @@
-module github.com/RollCall
+module github.com/kakuraccho/RollCall
 
 go 1.25.0
 
